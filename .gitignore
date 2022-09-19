@@ -1,0 +1,15 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/server-erp
+server-erp.so
+server-erp.dylib
+server-erp.dll
+server-erp.a
+server-erp.lib
+server-erp-test-*
+*.exe
+*.o
+*.obj
+*.lst
